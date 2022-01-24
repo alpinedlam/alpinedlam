@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning gits
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me at ....
+- 📫 How to reach me at github.com
 
 <!---
 alpinedlam/alpinedlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
